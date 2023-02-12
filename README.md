@@ -10,6 +10,19 @@
 
 ## API Endpoints
 
+### For Event:
+- http://localhost:8080/api/v1/university-event-app/update-event/id/{id}                
+- http://localhost:8080/api/v1/university-event-app/add-event                            
+- http://localhost:8080/api/v1/university-event-app/get-event-by-id/id/{id}             
+- http://localhost:8080/api/v1/university-event-app/delete-event/id/{id}                
+
+## For Student:
+- http://localhost:8080/api/v1/university-event-app/add-student
+- http://localhost:8080/api/v1/university-event-app/update-student-department/id/{id}/{dept}
+- http://localhost:8080/api/v1/university-event-app/get-all-student
+- http://localhost:8080/api/v1/university-event-app/get-student-by-id/id/{id}
+- http://localhost:8080/api/v1/university-event-app/delete-student/id/{id}
+
 
    
 ##  Steps to Run the Code:
