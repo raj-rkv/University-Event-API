@@ -17,3 +17,8 @@
 - Import your Source code into you intelliJ idea.
 - Wait for the library to load.
 - Run the code and try to hit the different end points.
+
+## Note:
+- H2 Data Base is used in this project.
+- username for database console is admin
+- password admin@123
