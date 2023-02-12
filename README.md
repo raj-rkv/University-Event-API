@@ -5,6 +5,9 @@
 - Maven
 - Server Port: 8080
 
+## Swagger UI Url for different Endpoints
+- http://localhost:8080/swagger-ui/index.html#/
+
 ## API Endpoints
 
 
